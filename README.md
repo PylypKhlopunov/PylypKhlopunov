@@ -78,11 +78,11 @@
 
 > 📌 *The following repositories contain professional samples of my work:*
 
-- [Test Cases & Checklists](#) — Structured documentation for business-critical modules.
-- [API Testing](#) — Postman collections for functional and security API validation.
-- [SQL Scripts](#) — Data validation queries and backend verification examples.
-- [Bug Reports](#) — Defect reports with severity analysis and reproduction steps.
-- [Test Plans & Strategies](#) — Sample test strategies and coverage documentation
+- [Test Cases & Checklists](https://github.com/PylypKhlopunov/QA-Artifacts/tree/main/test-documentation) — Structured documentation for business-critical modules.
+- [API Testing](https://github.com/PylypKhlopunov/QA-Artifacts/tree/main/api-testing) — Postman collections for functional and security API validation.
+- [SQL Scripts](https://github.com/PylypKhlopunov/QA-Artifacts/blob/main/sql-queries/SQL_Testing_Queries.md) — Data validation queries and backend verification examples.
+- [Bug Reports](https://github.com/PylypKhlopunov/QA-Artifacts/blob/main/bug-reports/Bug_Reports.md) — Defect reports with severity analysis and reproduction steps.
+- [Test Plans & Strategies](https://github.com/PylypKhlopunov/QA-Artifacts/blob/main/test-plans/Test_Strategy.md) — Sample test strategies and coverage documentation
 
 
 ---
