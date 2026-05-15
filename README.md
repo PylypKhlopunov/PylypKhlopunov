@@ -6,7 +6,7 @@ My name is **Pylyp Khlopunov** and I am a QA Engineer with **2+ years of commerc
 
 ## A Few Quick Facts
 
-<img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="220" alt="QA testing gif">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RsYnNsMGZodHRiaTAxMTQxZ2FvZzJzandqOGp0cDhvb3Z6OGk3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JGUMPPTMRCVPbSncVF/giphy.gif" height="220" alt="QA testing gif">
 
 - 🤖 I’m currently learning test automation with Playwright and Selenium
 - 🏥 Currently working as a QA Engineer on **PrimaCare** — a healthcare web platform for patient, financial, and resource management.
@@ -14,7 +14,7 @@ My name is **Pylyp Khlopunov** and I am a QA Engineer with **2+ years of commerc
 - 📋 I specialise in **functional, regression, UI, and API testing** within Agile teams (Scrum & Kanban).
 - 🛢️ I enjoy digging into back-end behaviour — validating data integrity directly in **PostgreSQL** to make sure the UI and database tell the same story.
 - 🤝 I have experience **onboarding new QA team members** and establishing documentation standards from the ground up.
-- 🌍 Languages: English (B1), Ukrainian (Native), Russian (Native).
+- 🌍 Languages: English, Ukrainian, Russian.
 
 ---
 
@@ -31,13 +31,13 @@ My name is **Pylyp Khlopunov** and I am a QA Engineer with **2+ years of commerc
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
   &nbsp;
-  <imb src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRzUgRaq5Mw8XXQx0TFMckq9z6WOBX9Asekw&s" title="Miro" alt="Miro" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRzUgRaq5Mw8XXQx0TFMckq9z6WOBX9Asekw&s" title="Miro" alt="Miro" width="40" height="40"/>
   &nbsp;
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Chrome DevTools" alt="Chrome DevTools" width="40" height="40"/>
   &nbsp;
   <img src="https://www.svgrepo.com/show/353515/browserstack.svg" title="BrowserStack" alt="BrowerStack" width="40" height="40"/>
   &nbsp;
-  <img src="https://www.svgrepo.com/show/138828/wordpress-logo.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/22026/wordpress.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
   &nbsp;
@@ -47,7 +47,7 @@ My name is **Pylyp Khlopunov** and I am a QA Engineer with **2+ years of commerc
   &nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" title="AWS" alt="AWS" width="40" height="40"/>
   &nbsp;
-  <img src="https://www.svgrepo.com/show/377856/virtualbox.svg" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/VirtualBox_2024_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>
   &nbsp;
 </p>
 
@@ -70,7 +70,7 @@ A comprehensive platform enabling doctors and small medical enterprises to manag
 ---
 
 ### 🤖 Promptix — QA Engineer
-`Jan 2026 – Feb 2026` | Enterprise AI Platform | Team: 2 members
+`Jan 2026 – Feb 2026` (Contract) | Enterprise AI Platform | Team: 2 members
 
 An enterprise-grade AI prompt marketplace offering translation, summarisation, and content-generation features.
 
