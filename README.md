@@ -1,135 +1,93 @@
-## Hey, let me find some bugs 🐛
+<h2 align="left">Hey, let me find some bugs <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="23" alt="ladybug"></h2>
 
-My name is **Pylyp Khlopunov** and I am a QA Engineer with **2+ years of commercial experience** testing complex web and mobile applications across healthcare and enterprise domains. Here I share testing portfolio items developed through work projects and personal practice. You are welcome to check out my [resume](https://docs.google.com/document/d/1cJBK7g19eseLkwl6dMiLhulDkBSai4M7-htppkD2fzY/edit?usp=sharing)
+<p>My name is <b>Pylyp Khlopunov</b> and I am a QA Engineer with <b>2+ years of commercial experience</b> testing complex web and mobile applications across healthcare and enterprise domains. Here I share testing portfolio items developed through work projects and personal practice. You are welcome to check out my <a href="https://docs.google.com/document/d/1cJBK7g19eseLkwl6dMiLhulDkBSai4M7-htppkD2fzY/edit?usp=sharing">resume</a>.</p>
 
 ---
 
-## A Few Quick Facts
+<h2>A Few Quick Facts</h2>
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RsYnNsMGZodHRiaTAxMTQxZ2FvZzJzandqOGp0cDhvb3Z6OGk3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JGUMPPTMRCVPbSncVF/giphy.gif" height="220" alt="QA testing gif">
 
-- 🤖 I’m currently learning test automation with Playwright and Selenium
-- 🏥 Currently working as a QA Engineer on **PrimaCare** — a healthcare web platform for patient, financial, and resource management.
-- 🦷 Previously spent 22 months at **Dampsoft** (Germany) — a dental practice management platform with 10,000+ users — where I built the QA process from scratch.
-- 📋 I specialise in **functional, regression, UI, and API testing** within Agile teams (Scrum & Kanban).
-- 🛢️ I enjoy digging into back-end behaviour — validating data integrity directly in **PostgreSQL** to make sure the UI and database tell the same story.
-- 🤝 I have experience **onboarding new QA team members** and establishing documentation standards from the ground up.
+- 🤖 Currently learning test automation with **Playwright** and **Selenium**.
+- 🏥 Senior QA Engineer at **PrimaCare** — a healthcare ERP for patient and financial management.
+- 🦷 Previously spent 22 months at **Dampsoft** (Germany) — a dental SaaS platform with 10,000+ users.
+- 📋 Expert in **Functional, Regression, and API testing** within Agile (Scrum/Kanban) teams.
+- 🛢️ Specialist in **Backend Validation** — verifying data integrity and consistency directly in **PostgreSQL**.
+- 🤝 Experience in **mentoring** and establishing QA documentation standards from scratch.
 - 🌍 Languages: English, Ukrainian, Russian.
 
 ---
 
-## Some Tools I Use
+<h2>Some Tools I Use</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
-  &nbsp;
-  <img src="https://luna1.co/eb0187.png" title="Qase" alt="Qase" width="40" height="40"/>
-  &nbsp;
-  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>
-  &nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJdfHMAB5i_cl49J0mFMzf6f3H3wtK4Msgw&s" title="Swagger" alt="Swagger" width="40" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
-  &nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRzUgRaq5Mw8XXQx0TFMckq9z6WOBX9Asekw&s" title="Miro" alt="Miro" width="40" height="40"/>
-  &nbsp;
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Chrome DevTools" alt="Chrome DevTools" width="40" height="40"/>
-  &nbsp;
-  <img src="https://www.svgrepo.com/show/353515/browserstack.svg" title="BrowserStack" alt="BrowerStack" width="40" height="40"/>
-  &nbsp;
-  <img src="https://www.svgrepo.com/show/22026/wordpress.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="40" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>
-  &nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" title="AWS" alt="AWS" width="40" height="40"/>
-  &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/VirtualBox_2024_Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>
-  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://luna1.co/eb0187.png" title="Qase" alt="Qase" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJdfHMAB5i_cl49J0mFMzf6f3H3wtK4Msgw&s" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRzUgRaq5Mw8XXQx0TFMckq9z6WOBX9Asekw&s" title="Miro" alt="Miro" width="40" height="40"/>&nbsp;
+  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Chrome DevTools" alt="Chrome DevTools" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/353515/browserstack.svg" title="BrowserStack" alt="BrowerStack" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/VirtualBox_2024_Logo.svg" title="VirtualBox" alt="VirtualBox" width="40" height="40"/>
 </p>
 
 ---
 
-## Work Experience
+<h2>Work Experience</h2>
 
 ### 🏥 PrimaCare — QA Engineer
 `Feb 2026 – Present` | Healthcare Web Application | Team: 22 members
 
-A comprehensive platform enabling doctors and small medical enterprises to manage patient scheduling, financial workflows, and clinical resources.
+- Designed and executed 100+ test cases in **Qase.io** for scheduling and financial modules from zero.
+- Performed rigorous functional and UI/UX validation against **Figma** designs to prevent frontend regressions.
+- Validated **REST APIs** via Postman; ensured data integrity by cross-referencing JSON responses with **PostgreSQL** records.
+- Standardized the onboarding process for new QA hires and maintained project documentation in Confluence.
 
-- Designed 100+ test cases covering scheduling, resource management, and financial modules from scratch.
-- Performed functional and UI testing against Figma designs, preventing layout regressions before each sprint demo.
-- Validated REST APIs via Postman and Swagger; identified data-integrity issues by cross-referencing responses against PostgreSQL.
-- Onboarded two new QA engineers, introducing them to project workflows and Qase.io test management practices.
-
-`Stack: Qase.io · Jira · Confluence · Postman · pgAdmin 4 · Swagger · Figma · PostgreSQL · Agile (Scrum/Kanban)`
+`Stack: Qase.io · Jira · Confluence · Postman · pgAdmin 4 · Swagger · Figma · PostgreSQL · Scrum`
 
 ---
 
 ### 🤖 Promptix — QA Engineer
 `Jan 2026 – Feb 2026` (Contract) | Enterprise AI Platform | Team: 2 members
 
-An enterprise-grade AI prompt marketplace offering translation, summarisation, and content-generation features.
+- Established the full-cycle QA process as the sole tester: covered registration, RBAC, and core AI workflows.
+- Executed negative and boundary value testing on input fields to prevent prompt injection and data errors.
+- Conducted cross-browser testing (Chrome, Safari, Firefox) ensuring UI consistency across macOS and Windows.
 
-- Sole QA resource: designed and executed full test coverage independently — registration, auth, profile management, and core AI workflows.
-- Identified critical input-validation gaps (boundary values, special characters, injection patterns) before release.
-- Performed cross-browser testing across Chrome, Firefox, and Safari.
-
-`Stack: Google Spreadsheets · macOS`
+`Stack: Google Spreadsheets · macOS · Web Vitals`
 
 ---
 
 ### 🦷 Dampsoft — QA Engineer
 `Mar 2024 – Jan 2026` | Dental Practice Management Software (Germany) | Team: 15–20 members
 
-Market-leading dental platform with 10,000+ users, focused on modernising a 20+ year legacy architecture and redesigning the Afina Dashboard UI/UX.
-
-- Built the QA function from scratch: defined testing strategy, integrated Jira defect tracking, and established Qase.io test suites — creating a repeatable regression workflow that measurably reduced regression cycle time.
-- Tested the modernised Afina Dashboard and its mobile-responsive iPad version, consistently catching UI regressions during the legacy-to-modern migration.
-- Validated the Rules & Rights Module — permissions matrix, RBAC, and privilege-escalation edge cases — preventing potential data-access violations.
-- Tracked defect density and test coverage metrics each sprint, providing transparent quality gates to Product Owners before release sign-off.
+- Architected the QA function: integrated **Jira** defect tracking with **Qase.io**, reducing regression cycle time by structuring reusable test suites.
+- Validated the migration of a 20-year legacy architecture to a modern dashboard, focusing on functional parity.
+- Tested the **Rules & Rights Module (RBAC)**: identified critical privilege-escalation edge cases.
+- Provided daily quality metrics and defect density reports to stakeholders for release sign-off.
 
 `Stack: Jira · Confluence · Qase.io · Postman · Chrome DevTools · VPN/TPS`
 
 ---
 
-## Test Artifacts
+<h2>Test Artifacts</h2>
 
-> 📌 *Repositories below are being progressively updated with real portfolio examples.*
+> 📌 *The following repositories contain professional samples of my work:*
 
-- [Test Cases & Checklists](#) — structured test documentation samples from web application testing
-- [API Testing](#) — REST API validation collections via Postman / Swagger
-- [SQL Queries](#) — PostgreSQL data-validation scripts and back-end verification examples
-- [Bug Reports](#) — defect report examples with reproduction steps, severity, and priority
-- [Test Plans & Strategies](#) — sample test strategies and coverage documentation
-
-← *Replace each `#` with the actual URL once you create the repositories.*
+- [Test Cases & Checklists](#) — Structured documentation for business-critical modules.
+- [API Testing](#) — Postman collections for functional and security API validation.
+- [SQL Scripts](#) — Data validation queries and backend verification examples.
+- [Bug Reports](#) — Defect reports with severity analysis and reproduction steps.
 
 ---
 
 <h3 align="center">📫 Let's connect!</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/pylyp-khlopunov/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://t.me/pylyp_khlopunov"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
-  &nbsp;
+  <a href="https://www.linkedin.com/in/pylyp-khlopunov/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://t.me/pylyp_khlopunov"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>&nbsp;
   <a href="mailto:fil.hlopunov@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
 </p>
-
-<!--
-**PylypKhlopunov/PylypKhlopunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
