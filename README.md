@@ -82,6 +82,8 @@
 - [API Testing](#) — Postman collections for functional and security API validation.
 - [SQL Scripts](#) — Data validation queries and backend verification examples.
 - [Bug Reports](#) — Defect reports with severity analysis and reproduction steps.
+- [Test Plans & Strategies](#) — Sample test strategies and coverage documentation
+
 
 ---
 
