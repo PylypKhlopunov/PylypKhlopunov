@@ -9,7 +9,7 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RsYnNsMGZodHRiaTAxMTQxZ2FvZzJzandqOGp0cDhvb3Z6OGk3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JGUMPPTMRCVPbSncVF/giphy.gif" height="220" alt="QA testing gif">
 
 - 🤖 Currently learning test automation with **Playwright** and **Selenium**.
-- 🏥 Senior QA Engineer at **PrimaCare** — a healthcare ERP for patient and financial management.
+- 🏥 QA Engineer at **PrimaCare** — a healthcare ERP for patient and financial management.
 - 🦷 Previously spent 22 months at **Dampsoft** (Germany) — a dental SaaS platform with 10,000+ users.
 - 📋 Expert in **Functional, Regression, and API testing** within Agile (Scrum/Kanban) teams.
 - 🛢️ Specialist in **Backend Validation** — verifying data integrity and consistency directly in **PostgreSQL**.
