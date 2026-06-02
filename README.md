@@ -1,6 +1,6 @@
 <h2 align="left">Hey, let me find some bugs <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="23" alt="ladybug"></h2>
 
-<p>My name is <b>Pylyp Khlopunov</b> and I am a QA Engineer with <b>2+ years of commercial experience</b> testing complex web and mobile applications across healthcare and enterprise domains. Here I share testing portfolio items developed through work projects and personal practice. You are welcome to check out my <a href="https://docs.google.com/document/d/1cJBK7g19eseLkwl6dMiLhulDkBSai4M7-htppkD2fzY/edit?usp=sharing">resume</a>.</p>
+<p>My name is <b>Pylyp Khlopunov</b> and I am a QA Engineer with <b>2+ years of commercial experience</b> testing complex web and mobile applications across healthcare and enterprise domains. Here I share testing portfolio items developed through work projects and personal practice. You are welcome to check out my <a href="https://docs.google.com/document/d/1cJBK7g19eseLkwl6dMiLhulDkBSai4M7-htppkD2fzY/edit?usp=sharing">resume</a> and official <a href="https://github.com/PylypKhlopunov/QA-Artifacts/blob/main/Recommendation_Letter_Pylyp_Khlopunov_Andersen.pdf">Recommendation Letter</a>.</p>
 
 ---
 
@@ -76,13 +76,14 @@
 
 <h2>Test Artifacts</h2>
 
-> 📌 *The following repositories contain professional samples of my work:*
+> 📌 *The following links contain professional samples of my work and credentials:*
 
-- [Test Cases & Checklists](https://github.com/PylypKhlopunov/QA-Artifacts/tree/main/test-documentation) — Structured documentation for business-critical modules.
-- [API Testing](https://github.com/PylypKhlopunov/QA-Artifacts/tree/main/api-testing) — Postman collections for functional and security API validation.
-- [SQL Scripts](https://github.com/PylypKhlopunov/QA-Artifacts/blob/main/sql-queries/SQL_Testing_Queries.md) — Data validation queries and backend verification examples.
-- [Bug Reports](https://github.com/PylypKhlopunov/QA-Artifacts/blob/main/bug-reports/Bug_Reports.md) — Defect reports with severity analysis and reproduction steps.
-- [Test Plans & Strategies](https://github.com/PylypKhlopunov/QA-Artifacts/blob/main/test-plans/Test_Strategy.md) — Sample test strategies and coverage documentation
+- 📄 [Official Recommendation Letter](https://github.com/PylypKhlopunov/QA-Artifacts/blob/main/Recommendation_Letter_Pylyp_Khlopunov_Andersen.pdf) — Formally issued by Andersen CEO, validating commercial quality assurance expertise.
+- 📋 [Test Cases & Checklists](https://github.com/PylypKhlopunov/QA-Artifacts/tree/main/test-documentation) — Structured documentation for business-critical modules.
+- 🚀 [API Testing](https://github.com/PylypKhlopunov/QA-Artifacts/tree/main/api-testing) — Postman collections for functional and security API validation.
+- 🛢️ [SQL Scripts](https://github.com/PylypKhlopunov/QA-Artifacts/blob/main/sql-queries/SQL_Testing_Queries.md) — Data validation queries and backend verification examples.
+- 🐛 [Bug Reports](https://github.com/PylypKhlopunov/QA-Artifacts/blob/main/bug-reports/Bug_Reports.md) — Defect reports with severity analysis and reproduction steps.
+- 🎯 [Test Plans & Strategies](https://github.com/PylypKhlopunov/QA-Artifacts/blob/main/test-plans/Test_Strategy.md) — Sample test strategies and coverage documentation.
 
 
 ---
